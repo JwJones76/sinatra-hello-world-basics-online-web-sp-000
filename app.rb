@@ -7,9 +7,4 @@ class App < Sinatra::Base
   end
 
 end
-=======
-  get '/' do
-    "Hello, World!"
-  end
-end
->>>>>>> solution with contributing file and .learn tags
+
